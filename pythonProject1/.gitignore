@@ -1,0 +1,7 @@
+#ignorons l'environnement virtuel 
+/.venv
+/venv
+venv
+.venv
+.idea
+/.idea
